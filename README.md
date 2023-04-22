@@ -1,0 +1,1 @@
+# This is a Clone of [Flappy bird] Created by Rachit and Rupesh using HTML, CSS and JavaScript
